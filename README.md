@@ -4,6 +4,8 @@ This repository contains a collection of two basic card designs created using on
   1.  QR Code Card: A simple card displaying a QR code, which can be used for various purposes such as quick links, contact information, or payment options.
   2.  Order Summary Card: A basic card showing an order summary, suitable for e-commerce sites or any platform requiring an overview of a purchase.
 
+Link - https://zaheer0011.github.io/Cards-Website/
+
 Features
 
    - QR Code Card:
